@@ -12,6 +12,7 @@ namespace Session02Ex01
             string stinrgValue = "MyStringValue";
             Console.WriteLine("Integer is " + integer.ToString());
             Console.WriteLine("The Value of StringValue is; " + stinrgValue);
+
         }
     }
 }
