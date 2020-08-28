@@ -18,15 +18,9 @@ namespace Övning
 
             for (int i = 0; i < inputArray.Length; i++)
             {
-                NumberStyles numberStyle = NumberStyles.Integer | NumberStyles.Float;
+             
 
-                bool parsed = double.TryParse(inputArray[i], numberStyle, CultureInfo, InvariantCulture, out)
-
-                if (parsed)
-                {
-                    numerArra
-                }
-
+              
 
 
                 
