@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session02Ex01", "Session02Ex01\Session02Ex01.csproj", "{6403743B-E134-4904-9B94-16A34CB63C86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "Exercise\Exercise.csproj", "{550C159D-39B6-4958-A631-BCB9A3A9C29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise", "Exercise\Exercise.csproj", "{550C159D-39B6-4958-A631-BCB9A3A9C29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fredag", "Fredag\Fredag.csproj", "{89B7E1F0-725F-4427-8B5F-46BB40E5AD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fredag.2", "Fredag.2\Fredag.2.csproj", "{842E00A0-B00E-42E3-B052-D63434CA2121}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{550C159D-39B6-4958-A631-BCB9A3A9C29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550C159D-39B6-4958-A631-BCB9A3A9C29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550C159D-39B6-4958-A631-BCB9A3A9C29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B7E1F0-725F-4427-8B5F-46BB40E5AD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B7E1F0-725F-4427-8B5F-46BB40E5AD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B7E1F0-725F-4427-8B5F-46BB40E5AD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B7E1F0-725F-4427-8B5F-46BB40E5AD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842E00A0-B00E-42E3-B052-D63434CA2121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842E00A0-B00E-42E3-B052-D63434CA2121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842E00A0-B00E-42E3-B052-D63434CA2121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842E00A0-B00E-42E3-B052-D63434CA2121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

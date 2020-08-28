@@ -8,6 +8,8 @@ namespace Exercise
         {
             Console.WriteLine("Hello Mate!");
 
+            
+
             Console.WriteLine("Do you want to enter your name? (y/n)?");
             var key = Console.ReadKey();
 
@@ -19,6 +21,24 @@ namespace Exercise
 
             Console.WriteLine("Hello, " + name);
             Console.ReadKey();
+
+            Console.WriteLine("Ange ålder");
+
+            var input = Console.ReadLine();
+            var integer = Convert.ToInt32(input);
+
+            if (integer >= 18)
+            {
+                Console.WriteLine("Du är myndig");
+            }
+            else
+            {
+                Console.WriteLine("Näe");
+            }
+
+            Console.ReadKey();
+
+
 
         }
     }
